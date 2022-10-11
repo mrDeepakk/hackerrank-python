@@ -14,7 +14,7 @@ def minion_game(s):
         print("Draw")
     else:
         print("Kevin",vowel)
-      
+
 if __name__ == '__main__':
     s = input()
     minion_game(s)
